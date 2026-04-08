@@ -39,9 +39,6 @@ tic-tac-toe/
 
 ---
 
-
----
-
 ## ▶️ How to Play
 
 1. Open the game in your browser  
@@ -56,7 +53,7 @@ tic-tac-toe/
 
 ## 🌐 Live Demo
 
-https://your-link-here
+https://yomnaelsafty.github.io/Tic-Tac-Toe/
 
 ---
 
